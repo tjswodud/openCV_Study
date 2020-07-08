@@ -1,0 +1,1 @@
+본 repository는 작성자 본인의 Python openCV 개인 공부를 위한 것입니다.
